@@ -1,1 +1,1 @@
-# hello_hybrid
+# Tutorial from SDSC Summer Institute, 2015
